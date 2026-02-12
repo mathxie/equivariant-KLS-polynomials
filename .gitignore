@@ -1,0 +1,14 @@
+# Sage cache / generated artifacts
+.sage_cache/
+**/.sage_cache/
+*.sage.py
+*.sage.pyc
+__pycache__/
+
+# Editor / OS
+.DS_Store
+
+# Logs / temporary outputs
+*.log
+nohup.out
+.gap_hist
